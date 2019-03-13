@@ -25,6 +25,7 @@
                     <select name="gender" id="inputGender" class="form-control" required="required">
                         <option>Male</option>
                         <option>Female</option>
+                        <option>Others</option>
                     </select>
             	</div>
 				<div class="form-group">

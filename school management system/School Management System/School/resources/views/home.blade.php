@@ -11,9 +11,9 @@
         <div class="jumbotron">
             <div class="container">
                 <h1>Hello Dear Student</h1>
-                <p>Click button below to access your space</p>
+                <p>Click here to access your information</p>
                 <p>
-                    <a href="/studentpage" class="btn btn-info btn-lg">Access my space</a>
+                    <a href="/studentpage" class="btn btn-info btn-lg">Access my information</a>
                 </p>
             </div>
         </div>
@@ -23,9 +23,9 @@
         <div class="jumbotron">
             <div class="container">
                 <h1>Hello Dear Teacher</h1>
-                <p>Click button below to access your space</p>
+                <p>Click here to access your information</p>
                 <p>
-                    <a href="/teacherpage" class="btn btn-info btn-lg">Access my space</a>
+                    <a href="/teacherpage" class="btn btn-info btn-lg">Access my information</a>
                 </p>
             </div>
         </div>
@@ -51,7 +51,7 @@
                 <div class="col-md-6">
                     <div class="jumbotron">
                         <div class="container">
-                            <h2>Are you a teacher?</h2>
+                            <h2>Teacher</h2>
                         <p>
                             <a href="/teachers/create" class="btn btn-primary btn-lg">Sign Up Here</a>
                         </p>
@@ -62,7 +62,7 @@
                 <div class="col-md-6">
                     <div class="jumbotron">
                         <div class="container">
-                            <h2>Are you a Student?</h2>
+                            <h2>Student</h2>
                         <p>
                             <a href="/students/create" class="btn btn-primary btn-lg">Sign Up Here</a>
                         </p>
